@@ -1,0 +1,142 @@
+.rainbow {
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, purple);
+  font-size: 110px;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.toolbar {
+	display: flex;
+	justify-content: center;
+	justify-content: space-around;
+	font-family: 'Poiret One';
+	font-size: 30px;
+}
+.Font {
+	font-family: 'Poiret One';
+}
+.size {
+	font-size: 25px;
+}
+.h3 {
+	font-family: 'Lobster';
+	text-align: center;
+	font-size: 40px;
+}
+.paragraph1 {
+	font-family: 'Lobster';
+	font-size: 27px;
+}
+.list {
+	list-style: none;
+}
+.align {
+	margin: auto;
+}
+ol {
+	display: inline-block;
+	text-align: left;
+}
+.red-text {
+	color: red;
+}
+.yellow-text {
+	color: rgb(255, 232, 0);
+}
+.orange-text {
+	color: orange;
+}
+.green-text {
+	color: green;
+}
+.blue-text {
+	color: blue;
+}
+.purple-text {
+	color: purple;
+}
+.gray-text {
+	color: rgb(118, 117, 107);
+}
+
+.home {
+	border: 2px solid black;
+	border-radius: 12px;
+	padding: 5px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family: 'Poiret One';
+	font-size: 30px;
+}
+.muladhara {
+	border: 2px solid black;
+	border-radius: 12px;
+	padding: 5px;
+	background-color: rgba(250, 0, 0, 0.4);
+	text-align: center;
+	font-family: 'Poiret One';
+	font-size: 30px;
+}
+.svad {
+	border: 2px solid black;
+	border-radius: 12px;
+	padding: 5px;
+	background-color: rgba(255, 165, 0, 0.4);
+	text-align: center;
+	font-family: 'Poiret One';
+	font-size: 30px;
+}
+.manipura {
+	border: 2px solid black;
+	border-radius: 12px;
+	padding: 5px;
+	background-color: rgba(255, 246, 12, 0.4);
+	text-align: center;
+	font-family: 'Poiret One';
+	font-size: 30px;
+}
+.anahata {
+	border: 2px solid black;
+	border-radius: 12px;
+	padding: 5px;
+	background-color: rgba(160, 247, 12, 0.4);
+	text-align: center;
+	font-family: 'Poiret One';
+	font-size: 30px;
+}
+.vishuddha {
+	border: 2px solid black;
+	border-radius: 12px;
+	padding: 5px;
+	background-color: rgba(14, 187, 211, 0.4);
+	text-align: center;
+	font-family: 'Poiret One';
+	font-size: 30px;
+}
+.ajna {
+	border: 2px solid black;
+	border-radius: 12px;
+	padding: 5px;
+	background-color: rgba(110, 28, 218, 0.4);
+	text-align: center;
+	font-family: 'Poiret One';
+	font-size: 30px;
+}
+.saha {
+	border: 2px solid black;
+	border-radius: 12px;
+	padding: 5px;
+	background-color: white;
+	text-align: center;
+	font-family: 'Poiret One';
+	font-size: 30px;
+}
+/*background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-transition-duration: 0.5s;
+	transition-duration: 0.5s
+	float: left;
